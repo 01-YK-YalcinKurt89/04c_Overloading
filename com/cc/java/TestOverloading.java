@@ -14,8 +14,8 @@ public class TestOverloading {
 	// }
 
 	
-		 
 	// Gleiche Signatur | return type ?	
+	
 	// public void sayHello() {
 	// 	System.out.println("Hello");
 	// }
@@ -28,6 +28,7 @@ public class TestOverloading {
 	
 	
 	// Gleiche Signatur 3 | Access Modifier ?
+	
 	// public void sayHello() {
 	// 	System.out.println("Hello");
 	// }
@@ -39,6 +40,7 @@ public class TestOverloading {
 	
 		
 	// Gleiche Signatur 3 | Parameter ?
+	
 	// public void sayHello2(String name, int counter) {
 	// 	System.out.println("Parameter name: " + name + " | Parameter: counter: " + counter);
 	// }
@@ -49,6 +51,7 @@ public class TestOverloading {
 
 
 	// Gleiche Signatur 3 | Parameter Namen ?
+
 	// public void sayHello2(String name, int counter) {
 	// 	System.out.println("Parameter name: " + name + " | Parameter: counter: " + counter);
 	// }
